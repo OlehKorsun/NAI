@@ -1,0 +1,15 @@
+night,bored,friends,happy,horror
+night,bored,friends,sad,horror
+afternoon,happy,partner,meaningless,comedy
+afternoon,relaxed,alone,sad,drama
+afternoon,stressed,partner,happy,comedy
+afternoon,happy,friends,happy,comedy
+night,stressed,alone,sad,drama
+night,stressed,friends,sad,horror
+evening,happy,partner,happy,comedy
+night,relaxed,partner,happy,drama
+night,bored,friends,meaningless,horror
+afternoon,happy,friends,happy,comedy
+evening,happy,partner,sad,drama
+evening,relaxed,friends,meaningless,horror
+afternoon,relaxed,friends,happy,comedy
